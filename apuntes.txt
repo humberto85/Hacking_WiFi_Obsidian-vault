@@ -1,0 +1,26 @@
+=============================================================================
+				PRIMER PARRTE
+=============================================================================
+barrido de bandas 2.4
+barrido de bandas 5   y combinadas
+
+barrido por tipo de encriptado
+barrido por essid
+barrido por bssid
+
+capturar paquetes por canal, bssid y guardar archivo
+
+capturar handshake con 
+desaunteticar un dispositivo de la red y capturar en un archivo
+
+validar que si se capturo un handshake
+validar lo mismo con tshark (eapol)
+
+hashcat
+
+detectar WPS habilitado
+reaver (pixie dust)
+
+=============================================================================
+				SEGUNDA PARTE
+=============================================================================
